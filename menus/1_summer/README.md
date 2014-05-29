@@ -2,35 +2,55 @@
 # breakfast
 
 
-## deconstructed bagel sandwich? 
-####cream cheese, lox, thinly sliced red onion, capers
-
+NO ## bagel sandwich
 ## yogurt with granola, fruit
+## dosa 
+## eggs
+## breakfast tacos
 
-## dosa with (sauces?)
+# salads
 
-## breakfast tacos with ?
+## tomato mozzarella salad
+## quinoa salad
+## bulghur salad
+## caesar salad (kale option)
+## salade nicoise 
 
+# soups
 
+## borscht 
+## veggie soup
 
+# pasta
 
+## spaghetti alla carbonara
 
-# lunch
+# sandwiches
 
+## salmon sandwich
+## tuna fish sandwich
+## grilled cheese
 
+# meat
 
-
-# dinner
-
-
-
-
+## jalepeno mustard roast chicken
+## burger
 
 # sides
 
+## bell pepper palya
+## saaru ana
+## dal
+## raita
+## cucumber salad
 
+## beans
+## carrots
+## asparagus
+## brussel sprouts
+## collard greens
+## spinach
+## chard
 
-
-# other
 
 
