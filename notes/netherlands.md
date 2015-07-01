@@ -23,7 +23,8 @@ The country is rich in fruits and vegetables, and has a very large meat and dair
 ### Foods
 
 
-Potato Saladhttp://www.thedutchtable.com/search/label/Aardappelsalade%20%28Dutch%20Potato%20Salad%29
+Potato Salad
+http://www.thedutchtable.com/search/label/Aardappelsalade%20%28Dutch%20Potato%20Salad%29
 
 Treacle
 
@@ -61,9 +62,20 @@ Stroopwafel
 
 Vla - thin milk pudding
 
+Arnhemse meisjes
+http://www.thedutchtable.com/search/label/Arnhemse%20Meisjes%20%28Dutch%20Arnhem%20Girls%20Cookies%29
+
 #### Bread
 
 Ontbijtkoek (peperkoek) - breakfast cake! make this!
+
+http://www.thedutchtable.com/search/label/Honingkoek%20%28Dutch%20Honey%20Cake%29
+
+#### Sandwich
+
+Uitsmijter
+
+
 
 
 #### Fish
@@ -88,7 +100,7 @@ Leyden
 
 #### Meat
 
-
+Filet Americain - http://www.thedutchtable.com/search/label/Filet%20Americain%20%28Dutch%20Raw%20Beef%20Spread%29
 
 Horse
 
