@@ -4,11 +4,17 @@ A repository for research and exploration into how to grow and prepare food.
 
 #### Food cycle
 
-Herbs and pantry vegetables are grown in the back yard.
-Fat is reserved after cooking for other uses
-Bones are saved for stock.
-[Composting]
-[Preserving]
+The basic goal is to use all of the food that we grow or buy. Some concerns include:
+
+* what to do with "waste" products - fat, bones, etc.
+* what to do when food starts to go bad
+* what to do with food that has gone bad.
+
+* Herbs and pantry vegetables are grown in the back yard.
+* Fat is reserved after cooking for other uses
+* Bones are saved for stock.
+* [Composting]
+* [Preserving]
 
 #### Shopping
 
@@ -19,7 +25,6 @@ Weekly shopping strategy
 * whole chicken
 * buttermilk
 * bacon
-
 * greens
 
 
@@ -30,7 +35,7 @@ Weekly shopping strategy
 * seasonal vegetables
 * herbs / flowers
 * apples
-* 
+
 
 ##### Occasional
 
@@ -58,6 +63,7 @@ Buttermilk ->
 * roast chicken brine
 * buttermilk dressing for salads
 * cornbread (w/ chicken or bacon fat)
+* as a drink
 
 Eggs ->
 * by themselves (over easy, scrambled, soft-boiled, omelets, poached...)
@@ -85,12 +91,15 @@ Uses for beans: tacos, lunch filler, etc.
 * Oatmeal (need to work on this one.)
 * Breakfast tacos
 * Green juice?
+* bread with spread / topping
 
 ##### Lunch
 
+* sandwich, sandwich, sandwich (the dutch way)
+* carrots
+* apples
 * Chicken sandwich with beans
 * Green salad
-* ?
 
 ##### Dinner
 
@@ -99,12 +108,11 @@ Uses for beans: tacos, lunch filler, etc.
 * Soup (red lentil, ...)
 * Steak with potatoes, greens
 * Green salad
-
+* Sausage with potatoes and vegetable
 
 
 #### Local / Seasonal
 
-What foods are grown in New York?
-Where can you get them?
-
-What foods grow here, when?
+What foods are grown where you live (New York, Gelderland, Dallas)?
+Where can you get them (supermarket, farmer's market, CSA)?
+When can you get them (seasons, times of day)?
