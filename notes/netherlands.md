@@ -1,4 +1,4 @@
-## Notes on Dutch food
+### Notes on Dutch food
 
 ### Introduction
 
@@ -6,13 +6,19 @@ I am staying for ten weeks, from mid-June to mid-August, in eastern Netherlands,
 
 The region is a famous producer of fruit - apples, cherries, strawberries; I have also seen potatoes and asparagus for sale.
 
-There are greenhouses everywhere in the Netherlands, and food seems quite cheap. Except for good cheese, and possibly some meat.
+There are greenhouses everywhere in the Netherlands, and food seems quite cheap. (Except for good cheese, and possibly some meat.)
 
-But there is a lot of bad food available in the supermarket as well - big bags of frozen french fries, or processed meat bitterballs.
+But there is a lot of mediocre food available in the supermarket as well - big bags of frozen french fries, or processed meat bitterballs.
 
-The country is rich in fruits and vegetables, and has a very large meat and dairy farms - with cows, sheep and chickens mainly.
+The country is rich in fruits and vegetables, and has a very large meat and dairy farms - with cows, sheep and chickens mainly. There really seem like a lot of options.
 
 ### Dutch cuisine
+
+Dutch cuisine isn't the most inspiring in the world - but it has lots of good qualities.
+
+* Focus on sandwiches / bread toppings - this offers room for lots of variation.
+* Archetypal dinner - sausage, potatoes, vegetable - certain traditional combinations - this is easy / simple.
+* Great dairy, good vegetables, fruit. 
 
 "Traditionally, Dutch cuisine is simple and straightforward, with many vegetables and little meat; breakfast and lunch are typically bread with toppings while dinner is meat and potatoes, supplemented with seasonal vegetables."
 
@@ -23,26 +29,37 @@ The country is rich in fruits and vegetables, and has a very large meat and dair
 ### Foods
 
 
-Potato Salad
-http://www.thedutchtable.com/search/label/Aardappelsalade%20%28Dutch%20Potato%20Salad%29
-
-Treacle
 
 #### Vegetables
 
-Asparagus - with cheese / ham
+* Asparagus - with cheese / ham
+
+
+* Potato Salad
+http://www.thedutchtable.com/search/label/Aardappelsalade%20%28Dutch%20Potato%20Salad%29
 
 
 #### Dishes
 
-
-Hutspot (with chuck roast/beef shoulder chops)
-
-Zuurkool (sauerkraut stamppot)
-
-Boerenkoolstamppot
-
 Dinner - potatoes, meat, vegetables.
+
+* Hutspot (with chuck roast/beef shoulder chops)
+
+* Zuurkool (sauerkraut stamppot)
+
+* Boerenkoolstamppot
+
+#### Dessert
+
+
+Stroopwafel
+
+Vla - thin milk pudding
+
+Arnhemse meisjes
+http://www.thedutchtable.com/search/label/Arnhemse%20Meisjes%20%28Dutch%20Arnhem%20Girls%20Cookies%29
+
+
 
 pancakes
 
@@ -55,15 +72,6 @@ Krentjebrij
 Bruine Bonensoep
 http://www.thedutchtable.com/2011/11/bruine-bonensoep.html
 
-#### Dessert
-
-
-Stroopwafel
-
-Vla - thin milk pudding
-
-Arnhemse meisjes
-http://www.thedutchtable.com/search/label/Arnhemse%20Meisjes%20%28Dutch%20Arnhem%20Girls%20Cookies%29
 
 #### Bread
 
@@ -73,10 +81,7 @@ http://www.thedutchtable.com/search/label/Honingkoek%20%28Dutch%20Honey%20Cake%2
 
 #### Sandwich
 
-Uitsmijter
-
-
-
+Uitsmijter - breakfast or lunch sandwich eaten with knife and fork.
 
 #### Fish
 
@@ -90,53 +95,50 @@ Buttermilk
 
 ##### Cheese
 
-Gouda
+Gouda - one of the oldest recorded cheeses still produced (1184). Eat with dutch mustard, old gouda with beers.
 
-Edam
+Edam - world's most popular cheese from 14th to 18th centuries, because it travels well and does not spoil. good with fruit, some wines, etc. low fat content.
 
-Leyden
-
+Leyden - cumin-spiced (komijnekaas) 
 
 
 #### Meat
 
-Filet Americain - http://www.thedutchtable.com/search/label/Filet%20Americain%20%28Dutch%20Raw%20Beef%20Spread%29
+Filet Americain - raw meat mixed with spices. spread on bread? 
+http://www.thedutchtable.com/search/label/Filet%20Americain%20%28Dutch%20Raw%20Beef%20Spread%29
 
-Horse
+Horse - used to be more popular.
 
 Balkenbrij - organ pate
 
 
 ##### Sausages
 
-
-Frikandel
+Frikandel - It is a long, firm, skinless, dark-coloured meat sausage which is usually eaten warm. Unlike most sausages, the frikandel is deep-fried. 
 
 Metworst - Metworst or droge worst is a type of traditional Dutch sausage. The sausages have a very strong flavour and are made from raw minced pork which is then air dried.
 https://en.wikipedia.org/wiki/Metworst
 
-Rookworst
-
-Stamppot
+Rookworst - h ground meat is mixed with spices and salt and stuffed into a casing (originally made of intestine, but these days usually made of bovine collagen (bologna-like, traditionally made of pork.)
 
 
 ### Drinks
 
-Advocaat
+* Advocaat - a traditional Dutch alcoholic beverage made from eggs, sugar and brandy
 
+* Beer - tons of options. (Westvleteren Brewery is the most fancy)
 
+* Genever - proto-gin
 
-Beer
-
-Genever
-
-Bitters
+* Bitters - Beerenburg
 
 #### Fusion
 
 Indonesian
 
 Surinamese
+
+Turkish
 
 
 #### References
