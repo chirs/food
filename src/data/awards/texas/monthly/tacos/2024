@@ -1,4 +1,4 @@
-Rank; Awarder; Award; Year; Awardee; City
+rank; awarder; award; year; award_organization; city
 
  1; Texas Monthly; TX Taco Top 50; 2024; Ana Liz Taqueria; Mission
  2; Texas Monthly; TX Taco Top 50; 2024; Elemi; Horizon City
@@ -17,7 +17,7 @@ Rank; Awarder; Award; Year; Awardee; City
   ; Texas Monthly; TX Taco Top 50; 2024; Cuantos Tacos; Austin
   ; Texas Monthly; TX Taco Top 50; 2024; Discada; Austin
   ; Texas Monthly; TX Taco Top 50; 2024; El Paso Flauta; Austin
-  ; Texas Monthly; TX Taco Top 50; 2024; Ramon del Barrio; Austin
+  ; Texas Monthly; TX Taco Top 50; 2024; Ramen del Barrio; Austin
   ; Texas Monthly; TX Taco Top 50; 2024; Suerte; Austin
   ; Texas Monthly; TX Taco Top 50; 2024; Yellow Bell Tacos; Austin
   ; Texas Monthly; TX Taco Top 50; 2024; Tacos Pkchu; Brownsville
@@ -36,7 +36,7 @@ Rank; Awarder; Award; Year; Awardee; City
   ; Texas Monthly; TX Taco Top 50; 2024; Raul's BBQ; Laredo
   ; Texas Monthly; TX Taco Top 50; 2024; Suarez Restaurant; 
   ; Texas Monthly; TX Taco Top 50; 2024; Jimenez y Friends; Lubbock
-  ; Texas Monthly; TX Taco Top 50; 2024; Tacos Way; Midland
+  ; Texas Monthly; TX Taco Top 50; 2024; Tacos Wey; Midland
   ; Texas Monthly; TX Taco Top 50; 2024; Tacos! Mi Gente; Mission
   ; Texas Monthly; TX Taco Top 50; 2024; Regina's; Mount Pleasant
   ; Texas Monthly; TX Taco Top 50; 2024; Taqueria Borrego Pinto; Pharr
@@ -53,7 +53,7 @@ Rank; Awarder; Award; Year; Awardee; City
   ; Texas Monthly; TX Taco Honorable Mention; 2024; The Local; Abilene
   ; Texas Monthly; TX Taco Honorable Mention; 2024; Yellow City Street Food; Amarillo
   ; Texas Monthly; TX Taco Honorable Mention; 2024; La Santa Barbacha; Austin
-  ; Texas Monthly; TX Taco Honorable Mention; 2024; Sylvia's Restaurant; Brownsville
+  ; Texas Monthly; TX Taco Honorable Mention; 2024; Sylvia's Restaurant (Brownsville); Brownsville
   ; Texas Monthly; TX Taco Honorable Mention; 2024; Mas Coffee Co.; Grand Prairie
   ; Texas Monthly; TX Taco Honorable Mention; 2024; Henderson & Kane General Store; Houston
   ; Texas Monthly; TX Taco Honorable Mention; 2024; Tacos Frontera; Houston
