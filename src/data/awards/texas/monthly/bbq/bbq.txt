@@ -1,0 +1,176 @@
+Awardee		Year	Award	Awarder	Rank	Score	Opened	Pitmaster	Pitmaster age	Wood	Heat	
+Franklin Barbecue	Austin	2013	TX BBQ Top 50	Texas Monthly		5	2009	Aaron Franklin	35	post oak	indirect-heat pit	
+Pecan Lodge	Dallas	2013	TX BBQ Top 50	Texas Monthly		4.75	2010	Justin Fourton	37	mesquite	indirect-heat pit	
+Snow's BBQ	Lexington	2013	TX BBQ Top 50	Texas Monthly		4.75	2003	Tootsie Tomanetz	78	post oak	"indirect-heat pit, direct-heat pit"	
+Louie Mueller Barbecue	Taylor	2013	TX BBQ Top 50	Texas Monthly		4.75	1949	Wayne Mueller	47	post oak	indirect-heat pit	
+Original Willie's Bar-B-Q	Alamo	2013	TX BBQ Top 50	Texas Monthly		4	1992	Arturo Lanteros	61	pecan	indirect-heat pit	
+Tyler's Barbecue	Amarillo	2013	TX BBQ Top 50	Texas Monthly		4	2010	Tyler Frazer	45	mesquite	indirect-heat pit	
+John Mueller Meat Co.	Austin	2013	TX BBQ Top 50	Texas Monthly		4.5	2013	John Mueller	44	oak	indirect-heat pit	
+La Barbecue	Austin	2013	TX BBQ Top 50	Texas Monthly		4.5	2012	John Lewis	34	post oak	indirect-heat pit	
+Lamberts Downtown Barbecue	Austin	2013	TX BBQ Top 50	Texas Monthly		4.25	2006	Zach Davis	34	oak	gas-fired smoker	
+Stiles Switch BBQ	Austin	2013	TX BBQ Top 50	Texas Monthly		4	2011	Lance Kirkpatrick	43	post oak	indirect-heat pit	
+Miller's Smokehouse	Belton	2013	TX BBQ Top 50	Texas Monthly		4.25	2008	"Dirk Miller, Robert Reid"	"48, 40"	"post oak, live oak"	indirect-heat pit	
+Fargo's Pit BBQ	Bryan	2013	TX BBQ Top 50	Texas Monthly		4.5	2000	Alan Caldwell	49	oak	indirect-heat pit	
+Brooks' Place	Cypress	2013	TX BBQ Top 50	Texas Monthly		4.25	2009	Trent Brooks	43	"red oak, pecan, hickory, mesquite"	indirect-heat pit	
+Lockhart Smokehouse	Dallas	2013	TX BBQ Top 50	Texas Monthly		4.5	2011	"Tim McLaughlin, Will Fleischman"	"33, 41"	post oak	indirect-heat pit	
+Austin's BBQ	Eagle Lake	2013	TX BBQ Top 50	Texas Monthly		4.25	1982	Ron Janow	55	pecan	indirect-heat pit	
+McMillan's Bar-B-Q	Fannin	2013	TX BBQ Top 50	Texas Monthly		4	1974	Louis McMIllan	67	"oak, mesquite, pecan"	indirect-heat pit	
+Cousin's Bar-B-Q	Fort Worth	2013	TX BBQ Top 50	Texas Monthly		4.25	1983	Cliff Payne	58	hickory	indirect-heat pit	
+Longoria's BBQ	Fort Worth	2013	TX BBQ Top 50	Texas Monthly		4	1995	David Longoria	50	"post oak, pecan"	indirect-heat pit	
+Cranky Frank's Barbeque Company	Fredericksburg	2013	TX BBQ Top 50	Texas Monthly		4.25	2003	"Daniel Martin, Glenn Wilke"	"40, 60"	mesquite	indirect-heat pit	
+Leon's World's Finest In & Out Bar-B-Que	Galveston	2013	TX BBQ Top 50	Texas Monthly		4	2003	Leon O'Neal	27	post oak	gas-fired smoker	
+Meshack's Bar-B-Que	Garland	2013	TX BBQ Top 50	Texas Monthly		4.25	2009	Travis Mayes	64	pecan	indirect-heat pit	
+Giddings City Meat Market	Giddings	2013	TX BBQ Top 50	Texas Monthly		4.25	1941	Gerald Birkelbach	57	post oak	indirect-heat pit	
+Bartley's Bar-B-Q	Grapevine	2013	TX BBQ Top 50	Texas Monthly		4	1968	Shane Wilkinson	35	hickory	indirect-heat pit	
+Bob's Bar-B-Que	Henderson	2013	TX BBQ Top 50	Texas Monthly		4	1980	Bob Allen	73	hickory	indirect-heat pit	
+Gatlin's BBQ	Houston	2013	TX BBQ Top 50	Texas Monthly		4.25	2010	Greg Gatlin	33	hickory	indirect-heat pit	
+Virgie's Bar-B-Que	Houston	2013	TX BBQ Top 50	Texas Monthly		4	2005	Adrian Handsborough	48	oak	indirect-heat pit	
+Billy's Old Fashion BBQ	Jasper	2013	TX BBQ Top 50	Texas Monthly		4	~1983	George Ralph Mahathay	67	hickory	indirect-heat pit	
+Joseph's Riverport Barbecue	Jefferson	2013	TX BBQ Top 50	Texas Monthly		4.5	1993	Stephen Joseph	45	post oak	indirect-heat pit	
+Buzzie's Bar-B-Q	Kerrville	2013	TX BBQ Top 50	Texas Monthly		4.25	1997	Harold Buzzie Hughes	54	live oak	indirect-heat pit	
+Hitch-N-Post BBQ	Livingston	2013	TX BBQ Top 50	Texas Monthly		4	2009	Billy Ray Nelson	62	"red oak, white oak, pecan, hickory"	indirect-heat pit	
+Cooper's Old Time Pit Bar-B-Que	Llano	2013	TX BBQ Top 50	Texas Monthly		4.5	1963			mesquite	direct-heat pit	
+Black's Barbecue	Lockhart	2013	TX BBQ Top 50	Texas Monthly		4.25	1932	Kent Black	60	post oak	indirect-heat pit	
+Kreuz Market	Lockhart	2013	TX BBQ Top 50	Texas Monthly		4.25	1990	Roy Perez	51	post oak	indirect-heat pit	
+Luling City Market	Luling	2013	TX BBQ Top 50	Texas Monthly		4	1958	Joe Capello Sr.	66	post oak	"indirect-heat pit, gas-fired smoker"	
+Whup's Boomerang Bar-B-Que	Marlin	2013	TX BBQ Top 50	Texas Monthly		4	2000	Bennie Washington	62	"mesquite, post oak, pecan"	indirect-heat pit	
+Hutchins BBQ	McKinney	2013	TX BBQ Top 50	Texas Monthly		4.25	1978	Tim Hutchins	32	"pecan, hickory, mesquite"	indirect-heat pit	
+Kirby's Barbeque	Mexia	2013	TX BBQ Top 50	Texas Monthly		4.5	1991	Kirby Hyden	58	post oak	indirect-heat pit	
+Hashknife on the Chisholm	Peadenville	2013	TX BBQ Top 50	Texas Monthly		4	2006	Jim McLennan	51	"pecan, oak"	gas-fired smoker	
+Cowpoke's	Pearsall	2013	TX BBQ Top 50	Texas Monthly		4.25	1993			mesquite	gas-fired smoker	
+Pody's BBQ	Pecos	2013	TX BBQ Top 50	Texas Monthly		4	2011	Israel Campos	38	mesquite	indirect-heat pit	
+Hatfields BBQ & Blackjacks Beer Garden	Rockport	2013	TX BBQ Top 50	Texas Monthly		4	2012	Kenny Hatfield	53	"oak, mesquite"	indirect-heat pit	
+Granary 'Cue and Brew	San Antonio	2013	TX BBQ Top 50	Texas Monthly		4	2012	Tim Rattray	30	oak	indirect-heat pit	
+Two Bros. BBQ Market	San Antonio	2013	TX BBQ Top 50	Texas Monthly		4.25	2009	Emilio Soliz	29	oak	indirect-heat pit	
+Hays Co. Bar-B-Que	San Marcos	2013	TX BBQ Top 50	Texas Monthly		4	2007	"Michael Hernandez, Aaron Hernandez, Omar Serna"	"39, 19, 40"	post oak	indirect-heat pit	
+Zimmerhanzel's BBQ	Smithville	2013	TX BBQ Top 50	Texas Monthly		4	1980	Bert Bunte	54	post oak	indirect-heat pit	
+Opie's Barbecue	Spicewood	2013	TX BBQ Top 50	Texas Monthly		4.5	1999	Marco Oglesby	31	mesquite	"indirect-heat pit, direct-heat pit"	
+Corkscrew BBQ	Spring	2013	TX BBQ Top 50	Texas Monthly		4.25	2011	Will Buckman	34	red oak	indirect-heat pit	
+Stanley's Famous Pit Barbecue	Tyler	2013	TX BBQ Top 50	Texas Monthly		4.5	1959	"Nick Pencis, Jonathan Shaw"	"36, 34"	pecan	"indirect-heat pit, gas-fired smoker"	
+Mumphord's Place BBQ	Victoria	2013	TX BBQ Top 50	Texas Monthly		4	2000	"Ricky Mumphord, Keith Mumphord, Bubba Barnes, Ernest Rucker"	"55, 48, 61, 50"	"mesquite, oak"	direct-heat pit	
+Big Boy's Bar-B-Que	Sweetwater	2013	TX BBQ Top 50	Texas Monthly		4	2000	Gaylan Marth	57	mesquite	direct-heat pit	
+Snow's BBQ	Lexington	2017	TX BBQ Top 50	Texas Monthly	1	5	2003	"Tootsie Tomanetz, Kerry Bexley"	"82, 50"	post oak	indirect-heat pit	
+Franklin Barbecue	Austin	2017	TX BBQ Top 50	Texas Monthly	2	4.75	2009	"Aaron Franklin, Braun Hughes"	"39, 40"	post oak	indirect-heat pit	
+Cattleack Barbeque	Dallas	2017	TX BBQ Top 50	Texas Monthly	3	4.75	2013	Todd David	59	"post oak, hickory"	"indirect-heat pit, wood-fired rotisserie"	
+Bodacious Bar-B-Q	Longview	2017	TX BBQ Top 50	Texas Monthly	4	4.75	1968	"Jordan Jackson, Scott Turner"	"34, 30"	"mesquite, post oak"	"indirect-heat pit, direct-heat pit, vertical flow pit, offset pit"	
+Louie Mueller Barbecue	Taylor	2017	TX BBQ Top 50	Texas Monthly	5	4.75	1949	Wayne Mueller	51	post oak	indirect-heat pit	
+Tejas Chocolate	Tomball	2017	TX BBQ Top 50	Texas Monthly	6	4.75	2015	"Scott Moore Jr., Greg Moore"	"53, 51"	post oak	indirect-heat pit	
+Corkscrew BBQ	Spring	2017	TX BBQ Top 50	Texas Monthly	7	4.75	2011	Will Buckman	38	red oak	wood rotisserie pit	
+Micklethwait Craft Meats	Austin	2017	TX BBQ Top 50	Texas Monthly	8	4.75	2012	Tom Micklethwait	39	oak	indirect-heat pit	
+Evie Mae's Pit Barbecue	Wolfforth	2017	TX BBQ Top 50	Texas Monthly	9	4.75	2015	Arnis Robbins	33	oak	offset smoker	
+Truth Barbeque	Brenham	2017	TX BBQ Top 50	Texas Monthly	10	4.75	2015	Leonard Botello IV	28	post oak	indirect-heat pit	
+2M Smokehouse	San Antonio	2017	TX BBQ Top 50	Texas Monthly		4.5	2016	Esaul Ramos	32	post oak	indirect-heat pit	
+Luling City Market	Luling	2017	TX BBQ Top 50	Texas Monthly		4.5	1958	Joe Capello Sr.	70	post oak	indirect-heat pit	
+Freedmen's	Austin	2017	TX BBQ Top 50	Texas Monthly		4.5	2012	"Bradley Robinson, Sam Maindonald, Juan Morales"	"27, 38, 23"	post oak	indirect-heat pit	
+Hays Co. Bar-B-Que	San Marcos	2017	TX BBQ Top 50	Texas Monthly		4.5	2007	"Michael Hernandez, Omar Serna, Zach Junot"	"43, 44, 26"	post oak	indirect-heat pit	
+Hutchins BBQ	McKinney	2017	TX BBQ Top 50	Texas Monthly		4.5	1978	Tim Hutchins	36	"oak, pecan"	indirect-heat pit	
+Killen's Barbecue	Pearland	2017	TX BBQ Top 50	Texas Monthly		4.5	2014	Manny Torres	44	"post oak, hickory, pecan"	wood-fired rotisserie smoker	
+La Barbecue	Austin	2017	TX BBQ Top 50	Texas Monthly		4.5	2012	"Francisco Saucedo, Brendan Lamb"	"30, 28"	post oak	indirect-heat pit	
+Roegels Barbecue Co	Houston	2017	TX BBQ Top 50	Texas Monthly		4.5	2014	Russell Roegels	44	post oak	indirect-heat pit	
+Stanley's Famous Pit Barbecue	Tyler	2017	TX BBQ Top 50	Texas Monthly		4.5	1959	"Nick Pencis, Jonathan Shaw"	"41, 38"	pecan	"indirect-heat pit, gas-fired smoker"	
+Stiles Switch BBQ	Austin	2017	TX BBQ Top 50	Texas Monthly		4.5	2011	"Bill Dumas, Alan Mykal Jackson, Lance Kirkpatrick, Christopher McGhee, Andy Stapp"	"49, 24, 47, 29, 26"	post oak	indirect-heat pit	
+BBQ on the Brazos	Cresson	2017	TX BBQ Top 50	Texas Monthly		4.25	2013	John Sanford	60	post oak	wood-burning gas-assisted rotisserie	
+Blue Moon BBQ	Hearne	2017	TX BBQ Top 50	Texas Monthly		4.25	2007	"Rick Moon, Toni Moon, Matt Moon"	"67, 62, 32"	post oak	indirect-heat pit	
+Fargo's Pit BBQ	Bryan	2017	TX BBQ Top 50	Texas Monthly		4.25	2000	Alan Caldwell	53	"oak, unspecified"	indirect-heat pit	
+Flores Barbecue	Whitney	2017	TX BBQ Top 50	Texas Monthly		4.25	2016	Michael Wyont	28	post oak	"offset smoker, reverse flow smoker"	
+Heavy's Outdoor	Hondo	2017	TX BBQ Top 50	Texas Monthly		4.25	2008	Darren Heavy Bernal	55	mesquite	Southern Pride rotisseries	
+Kreuz Market	Lockhart	2017	TX BBQ Top 50	Texas Monthly		4.25	1900	Roy Perez	55	post oak	indirect-heat brick pit	
+Miller's Smokehouse	Belton	2017	TX BBQ Top 50	Texas Monthly		4.25	2008	"Dirk Miller, Dusty Miller"	"53, 29"	"post oak, live oak"	indirect-heat pit	
+Pecan Lodge	Dallas	2017	TX BBQ Top 50	Texas Monthly		4.25	2010	Justin Fourton	40	"post oak, hickory"	indirect-heat pit	
+Pinkerton's Barbecue	Houston	2017	TX BBQ Top 50	Texas Monthly		4.25	2016	Grant Pinkerton	28	"mesquite, post oak"	offset smoker	
+Rio Grande Grill BBQ & Etex-Mex	Harlingen	2017	TX BBQ Top 50	Texas Monthly		4.25	2013	Daniel Wright	31	mesquite	offset smoker	
+Terry Black's Barbecue (Austin)	Austin	2017	TX BBQ Top 50	Texas Monthly		4.25	2014	"Michael Black, Mark Black"	"28, 28"	post oak	indirect-heat pit	
+Granary 'Cue and Brew	San Antonio	2017	TX BBQ Top 50	Texas Monthly		4.25	2012	"Tim Rattray, Matt Coogan"	"34, 34"	oak	indirect-heat pit	
+Pit Room	Houston	2017	TX BBQ Top 50	Texas Monthly		4.25	2016	"Michael Sambrooks, Bramwell Tripp"	"31, 33"	post oak	offset smoker	
+Smoking Oak	Mercedes	2017	TX BBQ Top 50	Texas Monthly		4.25	2015	Mario Dominguez Jr.	40	oak	indirect-heat pit	
+Valentina's Tex Mex BBQ	Austin	2017	TX BBQ Top 50	Texas Monthly		4.25	2013	Miguel Vidal	37	mesquite	wood-fired offset smoker	
+4-T's Bar-B-Q	Forney	2017	TX BBQ Top 50	Texas Monthly		4	2010	Mike Thomas	56	hickory	indirect-heat smoker	
+Baker Boys BBQ	Gonzales	2017	TX BBQ Top 50	Texas Monthly		4	2015	"Phil Baker, Wayne Baker"	"63, 35"	oak lump briquettes	indirect-heat pit	
+Cooper's Old Time Pit Bar-B-Que	Llano	2017	TX BBQ Top 50	Texas Monthly		4	1962	"Kenny Oestreich, Louis Garcia"	"52, 60"	mesquite	direct-heat pit	
+Gatlin's BBQ	Houston	2017	TX BBQ Top 50	Texas Monthly		4	2010	Greg Gatlin	37	"hickory, oak"	indirect-heat pit	
+Harris Bar-B-Que	Waxahachie	2017	TX BBQ Top 50	Texas Monthly		4	2013	Kelvin Harris	50	"hickory, oak, miscellaneous"	reverse-flow smoker	
+Heim Barbecue	Fort Worth	2017	TX BBQ Top 50	Texas Monthly		4	2015	Travis Heim	28	oak	indirect-heat pit	
+Joseph's Riverport Barbecue	Jefferson	2017	TX BBQ Top 50	Texas Monthly		4	1993	Stephen Joseph	49	post oak	indirect-heat pit	
+Lockhart Smokehouse	Dallas	2017	TX BBQ Top 50	Texas Monthly		4	2011	"Damian Avila, Carolina Maldonado"	"33, 33"	post oak	indirect-heat pit	
+Payne's Bar-B-Q- Shak	Burnet	2017	TX BBQ Top 50	Texas Monthly		4	2011	Robert Payne	73	oak	indirect-heat pit	
+Pody's BBQ	Pecos	2017	TX BBQ Top 50	Texas Monthly		4	2011	"Israel Pody Campos, Veronica Campos, Margaret Franco"	"42, 35, 61"	"pecan, oak, mesquite"	"offset smoker, wood-fired rotisserie"	
+Smolik's Smokehouse	Mathis	2017	TX BBQ Top 50	Texas Monthly		4	1989	John Rodriguez	53	"mesquite, hickory"	wood-fired rotisserie smoker	
+Stillwater Barbeque	Abilene	2017	TX BBQ Top 50	Texas Monthly		4	2013	Matt Proctor	33	oak	all-wood rotisserie smoker	
+Top 5 BBQ	DeSoto	2017	TX BBQ Top 50	Texas Monthly		4	2016	Kendon Greene	36	"oak, pecan"	convection-style gas rotisserie	
+Tyler's Barbecue	Amarillo	2017	TX BBQ Top 50	Texas Monthly		4	2010	Tyler Frazer	49	"mesquite, oak"	indirect-heat pit	
+Vera's Backyard Bar-B-Que	Brownsville	2017	TX BBQ Top 50	Texas Monthly		4	1955	Mando Vera	56	mesquite coals	subterranean pit	
+Goldee's	Fort Worth	2021	TX BBQ Top 50	Texas Monthly	1		2020	"Lane Milne, Jalen Heard, Nupohn Inthanousay, Jonny White, PJ Inthanousay"	"27, 27, 26, 26, 23"	post oak	offset smoker	
+InterStellar BBQ	Austin	2021	TX BBQ Top 50	Texas Monthly	2		2019	"John Bates, Carlos Cruz, Warren McDonald"	"46, 43, 53"	post oak	offset smoker	
+Truth Barbeque	Houston	2021	TX BBQ Top 50	Texas Monthly	3		2015	"Searcy Booker Jr., Leonard Botello IV, Antioco Carino, Reid Carson, Edward Montoya"	"27, 32, 34, 30, 35"	post oak	"offset smoker, direct-heat pit"	
+Burnt Bean Co.	Seguin	2021	TX BBQ Top 50	Texas Monthly	4		2020	"David Kirkland, Ernest Servantes"	"47, 43"	post oak	offset smoker	
+LeRoy and Lewis Barbecue	Austin	2021	TX BBQ Top 50	Texas Monthly	5		2017	Evan LeRoy	35	post oak	"offset smoker, direct-heat pit"	
+Cattleack Barbeque	Dallas	2021	TX BBQ Top 50	Texas Monthly	6		2013	Todd David	64	post oak	"offset smoker, wood-rotisserie smoker, direct-heat pit"	
+Franklin Barbecue	Austin	2021	TX BBQ Top 50	Texas Monthly	7		2009	"Jordan Jackson, Megan Nesland, Matthew Van Orden"	"39, 38, 46"	post oak	offset smoker	
+Evie Mae's Pit Barbecue	Wolfforth	2021	TX BBQ Top 50	Texas Monthly	8		2015	"Emma Mendoza, Nathan Pier, Arnis Robbins, Joseph Rodriguez"	"29, 40, 37, 28"	oak		"reverse flow smoker, wood-fired rotisserie smoker"
+Snow's BBQ	Lexington	2021	TX BBQ Top 50	Texas Monthly	9		2003	"Kerry Bexley, Clay Cowgill, Tootsie Tomanetz"	"54, 39, 86"	post oak	"offset smoker, direct-heat pit"	
+Panther City BBQ	Fort Worth	2021	TX BBQ Top 50	Texas Monthly	10		2018	"Fernando Barnes, Daniel Garcia, Chris Magallanes, Ernest Morales, Angel Rodriguez"	"43, 28, 47, 38, 19"	post oak	"offset smoker, Santa Maria grill"	
+Hurtado Barbecue	Arlington	2021	TX BBQ Top 50	Texas Monthly			2020	"Brandon Hurtado, Chris Leffel, Michael Sharp, Andrew Zelade"	"34, 36, 32, 30"	post oak	"offset smoker, wood-fired rotisserie"	
+Distant Relatives	Austin	2021	TX BBQ Top 50	Texas Monthly			2021	"Damien Brockway, Omari Mackey, Wesley Robinson"	"38, 26, 28"	pecan	offset smoker	
+La Barbecue	Austin	2021	TX BBQ Top 50	Texas Monthly			2012	"Ali Clem, LeAnn Mueller"	"40, 49"	post oak	offset smoker	
+Micklethwait Craft Meats	Austin	2021	TX BBQ Top 50	Texas Monthly			2012	"Ren Garcia, Tom Micklethwait"	"47, 43"	oak	offset smoker	
+Valentina's Tex Mex BBQ	Austin	2021	TX BBQ Top 50	Texas Monthly			2013	Miguel Vidal	40	mesquite	offset smoker	
+1701 Barbecue	Beaumont	2021	TX BBQ Top 50	Texas Monthly			2020	"Blue Broussard, Travis Cox, Jacob Golmon, Derek Ray, Colton Savoie, Gage Stark"	"37, 38, 37, 35, 19, 18"	post oak	offset smoker	
+Bloos Bros. BBQ	Bellaire	2021	TX BBQ Top 50	Texas Monthly			2018	"Quy Hoang, Jaime Valencia"	"48, 37"	"oak, pecan"	offset smoker	
+Miller's Smokehouse	Belton	2021	TX BBQ Top 50	Texas Monthly			2008	"Bradley Knight, Dirk Miller, Dylon Miller, Chris Oliver"	"33, 57, 30, 22"	post oak	offset smoker	
+LJ's BBQ	Brenham	2021	TX BBQ Top 50	Texas Monthly			2015	"Corey Cook, Matt Lowery"	"46, 40"	post oak	offset smoker	
+Vera's Backyard Bar-B-Que	Brownsville	2021	TX BBQ Top 50	Texas Monthly			1955	Armando Vera	61	mesquite	underground brick-lined pit	
+Mimsy's Craft Barbecue	Crockett	2021	TX BBQ Top 50	Texas Monthly			2020	Wade Elkins	36	post oak	reverse-flow smoker	
+Slow Bone	Dallas	2021	TX BBQ Top 50	Texas Monthly			2013	Jeffery Hobbs	51	"hickory, oak"	wood-fired rotisserie smoker	
+Smokey Joe's BBQ	Dallas	2021	TX BBQ Top 50	Texas Monthly			1985	"Earl Harris, Kris Manning"	"56, 31"	"hickory, oak"	offset smoker	
+Terry Black's Barbecue (Dallas)	Dallas	2021	TX BBQ Top 50	Texas Monthly			2019	"Mark Black, Michael Black"	"33, 33"	post oak	"offset smoker, wood-fired rotisserie smoker"	
+Desert Oak Barbecue	El Paso	2021	TX BBQ Top 50	Texas Monthly			2015	Richard Funk	45	post oak	offset smoker	
+Dayne's Craft Barbecue	Fort Worth	2021	TX BBQ Top 50	Texas Monthly			2019	"Thomas Loven, Dayne Weaver"	"26, 34"	"red oak, post oak"	offset smoker	
+Smoke-A-Holics BBQ	Fort Worth	2021	TX BBQ Top 50	Texas Monthly			2019	Derrick Walker	44	pecan	offset smoker	
+Eaker Barbecue	Fredericksburg	2021	TX BBQ Top 50	Texas Monthly			2018	Lance Eaker	49	"mesquite, post oak"	offset smoker	
+Hutchins BBQ	Frisco	2021	TX BBQ Top 50	Texas Monthly			2014	"Tim Hutchins, Trey Hutchins, John Mueller"	"41, 50, 52"	"oak, pecan"	wood-fired rotisserie smoker	
+Baker Boys BBQ	Gonzales	2021	TX BBQ Top 50	Texas Monthly			2015	"Phil Baker, Wayne Baker"	"69, 40"	charcoal briquettes	indirect-heat pit	
+Zavala's Barbecue	Grand Prairie	2021	TX BBQ Top 50	Texas Monthly			2019	"Joseph Bastian, Ellie Snyder, Joe Zavala"	"19, 30, 35"	"post oak, pecan"	offset smoker	
+Feges BBQ	Houston	2021	TX BBQ Top 50	Texas Monthly			2021	"Vince Boisaubin, Hristo Cisneros, Zach Cook, Ozzi Escalante, Patrick Feges"	"32, 24, 34, 21, 36"	oak	wood-fired rotisserie smoker	
+Brett's BBQ Shop	Katy	2021	TX BBQ Top 50	Texas Monthly			2018	"Roalndo Garcia, Brett Jackson"	40	oak	offset smoker	
+Convenience West	Marfa	2021	TX BBQ Top 50	Texas Monthly			2017	Mark Scott	35	oak	offset smoker	
+Butter's BBQ	Mathis	2021	TX BBQ Top 50	Texas Monthly			2017	"Robert Rodriguez, Andrew Soto"	"24, 29"	"post oak, mesquite"	offset smoker	
+Rejino Barbeque	Olton	2021	TX BBQ Top 50	Texas Monthly			2017	Aaron Rejino	32	oak	offset smoker	
+Killen's Barbecue	Pearland	2021	TX BBQ Top 50	Texas Monthly			2013	"Margarito Pineda, Manny Torres"	"54, 48"	"post oak, hickory, pecan"	wood-fired rotisserie smoker	
+Brotherton's Black Iron Barbecue	Pflugerville	2021	TX BBQ Top 50	Texas Monthly			2017	"Dominic Colbert, Bill Dumas, Charles Ferrell, Bobby Holley, Jason Tedford"	"36, 53, 32, 25, 41"	oak	"offset smoker, direct-heat pit"	
+LaVaca BBQ	Port Lavaca	2021	TX BBQ Top 50	Texas Monthly			2019	Kelli Nevarez	29	post oak	offset smoker	
+Brett's Backyard Bar-B-Que	Rockdale	2021	TX BBQ Top 50	Texas Monthly			2018	"Brett Boren, Barden Wallis"	"39, 22"	oak	"offset smoker, direct-heat pit"	
+2M Smokehouse	San Antonio	2021	TX BBQ Top 50	Texas Monthly			2016	Esaul Ramos	36	post oak	offset smoker	
+Pinkerton's Barbecue	San Antonio	2021	TX BBQ Top 50	Texas Monthly			2021	Grant Pinkerton	32	"mesquite, post oak"	offset smoker	
+Hays Co. Bar-B-Que	San Marcos	2021	TX BBQ Top 50	Texas Monthly			2007	"Michael Hernandez, Michael Aaron Hernandez, Jessie Miranda"	"47, 28, 47"	post oak	offset smoker	
+Corkscrew BBQ	Spring	2021	TX BBQ Top 50	Texas Monthly			2011	Will Buckman	42	red oak	wood-fired rotisserie smoker	
+Louie Mueller Barbecue	Taylor	2021	TX BBQ Top 50	Texas Monthly			1949	Wayne Mueller	56	post oak	offset smoker	
+Tejas Chocolate	Tomball	2021	TX BBQ Top 50	Texas Monthly			2015	"Greg Moore, Scott Moore Jr."	"55, 57"	post oak	offset smoker	
+Stanley's Famous Pit Barbecue	Tyler	2021	TX BBQ Top 50	Texas Monthly			1960	"Spencer Carl, Nick Pencis"	"34, 44"	"pecan, post oak"	"offset smoker, wood-fired rotisserie smoker"	
+Guess Family Barbecue	Waco	2021	TX BBQ Top 50	Texas Monthly			2017	"Kyle Arwine, Reid Guess, Chuy Ortiz"	"45, 39, 28"	post oak	offset smoker	
+Teddy's Barbecue	Weslaco	2021	TX BBQ Top 50	Texas Monthly			2019	"Jesse Garcia, Joel Garcia, Paul Rios"	"23, 30, 36"	post oak	offset smoker	
+Helberg Barbecue	Woodway	2021	TX BBQ Top 50	Texas Monthly			2018	"Candace Daniels, David Ferlet, Phillip Helberg, Josh Soliman"	"29, 48, 27, 29"	post oak	offset smoker	
+Smoke 'N Ash BBQ	Arlington	2023	TX BBQ New & Improved	Texas Monthly			2018	"Patrick Hicks, Fasicka Hicks"				
+Briscuits	Austin	2023	TX BBQ New & Improved	Texas Monthly			2021	"Christopher McGhee, Will Spence"				
+KG BBQ	Austin	2023	TX BBQ New & Improved	Texas Monthly			2022	Kareem El-Ghayesh				
+Mum Foods	Austin	2023	TX BBQ New & Improved	Texas Monthly			2022	"Geoffrey Ellis, Travis Crawford"				
+Douglas Bar and Grill	Dallas	2023	TX BBQ New & Improved	Texas Monthly			2022	"Doug Pickering, Alex Meza"				
+North Texas Smoke BBQ	Decatur	2023	TX BBQ New & Improved	Texas Monthly			2022	"Derek Degenhardt, Taylor Shields"				
+Heritage Butchery & Barbecue	Denison	2023	TX BBQ New & Improved	Texas Monthly			2022	"Pete Gonzales, Arthur Finney, Garrett Nichols, Marco Rios"				
+Vargas BBQ	Edinburg	2023	TX BBQ New & Improved	Texas Monthly			2021	Ram Vargas				
+Hallelujah BBQ	El Paso	2023	TX BBQ New & Improved	Texas Monthly			2023	Blake Barrow				
+Smokin' Joe's Pit BBQ	El Paso	2023	TX BBQ New & Improved	Texas Monthly			2022	"Joe Martinez, Martin Martinez"				
+Rossler's Blue Cord Barbecue	Harker Heights	2023	TX BBQ New & Improved	Texas Monthly			2021	"Steven Rossler, Kristen Rossler"				
+Brisket & Rice	Houston	2023	TX BBQ New & Improved	Texas Monthly			2022	"Hong Tran, Phong Tran"				
+J-Bar-M Barbecue	Houston	2023	TX BBQ New & Improved	Texas Monthly			2021	"Alec Varnell, Nick Orozco"				
+Barbs B Q	Lockhart	2023	TX BBQ New & Improved	Texas Monthly			2023	"Chuck Charnichart, Haley Conlin, Alexis Tovias"				
+B4 Barbeque & Boba	Mabank	2023	TX BBQ New & Improved	Texas Monthly			2021	Nolan Belcher				
+Midland Meat Co.'s Half Acre	Midland	2023	TX BBQ New & Improved	Texas Monthly			2019	Aaron Lesley				
+El Sancho Tex Mex BBQ	Mission	2023	TX BBQ New & Improved	Texas Monthly			2019	Danny Sanchez				
+Bar-A-BBQ	Montgomery	2023	TX BBQ New & Improved	Texas Monthly			2019	"Cooper Abercrombie, Shelby Abercrombie, Caleb Abercrombie"				
+Brantley Creek Barbecue	Odessa	2023	TX BBQ New & Improved	Texas Monthly			2019	Brantley Creek Barbecue				
+Reese Bros Barbecue	San Antonio	2023	TX BBQ New & Improved	Texas Monthly			2022	"Nick Reese, Elliott Reese, Gabriel Perez"				
+GW's BBQ Catering Co.	San Juan	2023	TX BBQ New & Improved	Texas Monthly			2017	GW's BBQ Catering Co.				
+Rosemeyer Bar-B-Q	Spring	2023	TX BBQ New & Improved	Texas Monthly			2021	"Jordan Rosemeyer, Ben Maxwell"				
+Hill City Chop House	Tolar	2023	TX BBQ New & Improved	Texas Monthly			2022	"Dustin Martin, Jack Allison"				
+Pit Commander Barbecue	Van Alstyne	2023	TX BBQ New & Improved	Texas Monthly			2022	Stephan Nedwetzky				
+Sunbird Barbecue	White Oak	2023	TX BBQ New & Improved	Texas Monthly			2021	"Bryan Bingham, David Segovia"				
